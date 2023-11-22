@@ -1,0 +1,32 @@
+{
+   "action": {
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "langchainModules.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "css": [ "content-script.css" ],
+      "js": [ "content-script.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "host_permissions": [ "https://*.openai.com/", "https://*.openai.azure.com/", "https://*.glarity.app/", "https://*.google-analytics.com/" ],
+   "icons": {
+      "128": "logo-128.png",
+      "16": "logo-16.png",
+      "32": "logo-32.png",
+      "48": "logo-48.png"
+   },
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "storage", "activeTab", "tabs", "https://api.glarity.app/*", "https://vi2vocal.s3.ap-northeast-1.amazonaws.com/*", "https://www.google-analytics.com/*", "https://glarity.app/api/*", "https://account-dev.felo.ai/*", "https://*.glarity.app/*", "https://account.felo.ai/*" ],
+   "version": "3.43.4"
+}

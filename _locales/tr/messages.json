@@ -1,0 +1,805 @@
+{
+   "Direct": {
+      "message": "Doğrudan"
+   },
+   "Engaging": {
+      "message": "Etkileyici"
+   },
+   "Formal": {
+      "message": "Resmi"
+   },
+   "Natural": {
+      "message": "Doğal"
+   },
+   "Personable": {
+      "message": "Samimi"
+   },
+   "aiAskYoutubeTip": {
+      "message": "Glarity, ilginizi çekebilecek soruları tahmin ediyor"
+   },
+   "ai_chapter": {
+      "message": "Yapay Zeka Bölümü"
+   },
+   "ai_chapter_lone_text_tip": {
+      "message": "En üstün yapay zeka bölüm sonuçları için 'Glarity Modu' kullanın."
+   },
+   "ai_not_responding": {
+      "message": "AI yanıt vermiyor"
+   },
+   "aiprovider": {
+      "message": "AI Sağlayıcı"
+   },
+   "always": {
+      "message": "Her Zaman"
+   },
+   "always_tip": {
+      "message": "ChatGPT, her aramada sorgulanır"
+   },
+   "appDesc": {
+      "message": "ChatGPT ile YouTube ve Google arama sonuçlarının özetleri. Glarity, herhangi bir web sayfasını kolayca özetlemenizi sağlar."
+   },
+   "appName": {
+      "message": "ChatGPT Glarity-YouTube ve Google'ı Özetle"
+   },
+   "ask": {
+      "message": "Sor"
+   },
+   "ask_chatGPT": {
+      "message": "Özet Oluştur"
+   },
+   "ask_docment_placeholder": {
+      "message": "Glarity'ye istediğiniz herhangi bir şeyi sorun"
+   },
+   "ask_page_placeholder": {
+      "message": "Glarity'ye istediğiniz herhangi bir şeyi sorun"
+   },
+   "ask_video_placeholder": {
+      "message": "Glarity'ye istediğiniz herhangi bir şeyi sorun"
+   },
+   "asking_tip": {
+      "message": "Glarity, sizin için anahtar kelimelerle ilgili sorular üretiyor"
+   },
+   "auto": {
+      "message": "Otomatik"
+   },
+   "azure_use_desc": {
+      "message": "Azure OpenAI hizmetlerinden faydalanmak için bir araştırma ve geliştirme mühendisi daha kararlı bir hizmet alabilir."
+   },
+   "back": {
+      "message": "geri"
+   },
+   "basic": {
+      "message": "Temel"
+   },
+   "beta": {
+      "message": "beta"
+   },
+   "billing_basic": {
+      "message": "Glarity Temel"
+   },
+   "billing_hot": {
+      "message": "🔥 TAVSİYE"
+   },
+   "blacklist_sites": {
+      "message": "Kara Liste Siteleri"
+   },
+   "blacklist_sites_tip": {
+      "message": "Bu sitelerde Glarity ikonunu gösterme (her satırda bir URL)."
+   },
+   "cancel": {
+      "message": "İptal et"
+   },
+   "change_openai_api": {
+      "message": "Bu devam ederse, uzantı seçeneklerinde Al sağlayıcısını OpenAI API olarak değiştirin."
+   },
+   "changes_saved": {
+      "message": "Değişiklikler kaydedildi"
+   },
+   "chat_quota_used_up_free_plan": {
+      "message": "Ücretsiz plan kotası tükenmiştir. \u003Cbr /> \u003Ca href='$link$'>Planınızı yükseltin\u003C/a> daha fazla kredi alın",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "https://glarity.com"
+         }
+      }
+   },
+   "chat_quota_used_up_limited_plan": {
+      "message": "Planınızın kullanım sınırı tükenmiştir. \u003Cbr /> \u003Ca href='$link$'>Planınızı yükseltin\u003C/a> daha fazla krediye erişim sağlayın",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "https://glarity.com"
+         }
+      }
+   },
+   "chat_quota_used_up_not_login": {
+      "message": "Planınızın kullanım sınırı tükenmiştir. \u003Cbr /> \u003Ca href='$link$'>Giriş yapın\u003C/a> ücretsiz deneyiminizin tadını çıkarmaya devam edin",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "https://glarity.com"
+         }
+      }
+   },
+   "chat_tip": {
+      "message": "Not: Sorgu işlevi daha fazla Anahtar kotası tüketebilir~"
+   },
+   "chatgpt_default_desc": {
+      "message": "Varsayılan, Ücretsiz ve Plus kullanıcıları için sınırsızdır."
+   },
+   "chatgpt_default_model": {
+      "message": "Varsayılan"
+   },
+   "chatgpt_gpt4_desc": {
+      "message": "GPT-4, Plus kullanıcıları içindir ve çok sınırlı bir kota sahiptir."
+   },
+   "chatgpt_gpt4_model": {
+      "message": "GPT-4"
+   },
+   "chatgpt_use_desc": {
+      "message": "Web sitesindeki ChatGPT hesabınıza giriş yapmaya devam etmelisiniz. Chatgpt plus kullanıcıları için OpenAI kısıtlaması nedeniyle kararlılık tutarsız olabilir. Tavsiye edilmekte."
+   },
+   "clickClose": {
+      "message": "Daraltmak için tıklayın"
+   },
+   "clickOpen": {
+      "message": "Genişletmek için tıklayın"
+   },
+   "comment_summary": {
+      "message": "Yorum Özeti"
+   },
+   "comment_summary_tip": {
+      "message": "Amazon ürünleri ve YouTube video yorumlarına destek özeti."
+   },
+   "confirm": {
+      "message": "Onayla"
+   },
+   "content": {
+      "message": "İçerik"
+   },
+   "context_menu_translate": {
+      "message": "Çevir / Orijinal Metni Göster"
+   },
+   "copy": {
+      "message": "Kopyala"
+   },
+   "copy_success": {
+      "message": "Kopyalama başarılı"
+   },
+   "create_tweet": {
+      "message": "Bir tweet oluştur"
+   },
+   "current_plan": {
+      "message": "Mevcut Plan"
+   },
+   "customize_prompt": {
+      "message": "Özet İçin Özel İstek"
+   },
+   "dark": {
+      "message": "Koyu"
+   },
+   "data_error": {
+      "message": "Veri Hatası"
+   },
+   "disable_icon": {
+      "message": "Glarity İkonunu Devre Dışı Bırak \n"
+   },
+   "disable_pop_tip": {
+      "message": "Açılır özeti devre dışı bırakmak istediğinizden emin misiniz?"
+   },
+   "disable_popup_summary": {
+      "message": "Simge veya açılır özet gösterme."
+   },
+   "enable_disable_glarity": {
+      "message": "Glarity'yi Etkinleştir/Devre Dışı Bırak"
+   },
+   "enable_disable_tip": {
+      "message": "Aşağıdaki web sitesinde Glarity Özeti'ni etkinleştirebilir/devre dışı bırakabilirsiniz."
+   },
+   "enter_azure_endpoint": {
+      "message": "Lütfen Azure Uç Noktanızı girin"
+   },
+   "enter_azure_key": {
+      "message": "Lütfen Azure API Anahtarınızı girin"
+   },
+   "enter_azure_name": {
+      "message": "Lütfen Azure Dağıtım Adınızı girin"
+   },
+   "enter_claude_key": {
+      "message": "Lütfen Claude API Anahtarınızı girin"
+   },
+   "enter_openai_key_toast": {
+      "message": "Lütfen OpenAI API Anahtarınızı girin"
+   },
+   "example_prompts": {
+      "message": "Örnek İstekler:"
+   },
+   "explain": {
+      "message": "Açıklama"
+   },
+   "extract_gist": {
+      "message": "Yukarıdakinin özünü çıkarın."
+   },
+   "faq_about": {
+      "message": "Bu Video Hakkında SSS"
+   },
+   "fell_text": {
+      "message": "Enerjinizin düştüğünü mü hissediyorsunuz?"
+   },
+   "find_create_openai_key": {
+      "message": "API anahtarınızı burada bulabilir veya oluşturabilirsiniz"
+   },
+   "free_queries": {
+      "message": "$count$ Ücretsiz Sorgu",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "free_quota_exhausted": {
+      "message": "Ücretsiz kota tükenmiştir"
+   },
+   "generate": {
+      "message": "Oluştur"
+   },
+   "generating": {
+      "message": "Oluşturuluyor..."
+   },
+   "glarity_not_use_desc": {
+      "message": "Glarity, gelişmiş AI destekli hizmetler için çeşitli AI modellerini kullanır. Aylık $size$ ücretsiz jetonla herkesi AI gücüyle güçlendirin.\u003Cbr/> \u003Ca href='$link$' target='_blank' rel='noopener noreferrer'>$plan$'e yükseltin \u003C/a> daha fazla jeton kotası ve premium özellikler için.",
+      "placeholders": {
+         "link": {
+            "content": "$3",
+            "example": "https://glarity.com"
+         },
+         "plan": {
+            "content": "$2",
+            "example": "pro"
+         },
+         "size": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "glarity_unlimited_words": {
+      "message": "Sınırsız Jetonlar"
+   },
+   "glarity_use_desc": {
+      "message": "Glarity, size üstün AI destekli hizmetler sunmak için birden fazla AI modeli kullanır."
+   },
+   "glarity_words_size": {
+      "message": "$size$ k jeton kullanılabilir",
+      "placeholders": {
+         "size": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "glartiy_trial": {
+      "message": "Glarity Deneme"
+   },
+   "go_plus": {
+      "message": "Go Plus"
+   },
+   "google_search": {
+      "message": "Google Arama"
+   },
+   "goto_chatgpt": {
+      "message": "ChatGPT'ye git"
+   },
+   "goto_options": {
+      "message": "Düzenleme seçeneklerine git"
+   },
+   "gpt3_5tip": {
+      "message": "GPT-3.5, Ücretsiz ve Plus kullanıcıları için sınırsızdır."
+   },
+   "gpt4_tip": {
+      "message": "GPT-4, Plus kullanıcıları için ve çok sınırlı bir kota sahiptir."
+   },
+   "gpt_401": {
+      "message": "Yanıt yüklenemedi, lütfen API anahtarını kontrol edin."
+   },
+   "guide_desc": {
+      "message": "Verimli bir şekilde Glarity Özetinin okunmasını deneyimlemeye başlayın~~"
+   },
+   "guide_title": {
+      "message": "Glarity'ye Hoş Geldiniz"
+   },
+   "guide_to_glarity_mode": {
+      "message": "Eğer bu sorun devam ederse, herkes için \u003Ca id='glarity-error-guide-to-options'>Glarity moduna\u003C/a> geçmeniz önerilir."
+   },
+   "hasLogin_isFree_text": {
+      "message": "Daha fazla kredi için planınızı yükseltin"
+   },
+   "hasLogin_isFree_title": {
+      "message": "Ücretsiz plan kotası tükenmiş"
+   },
+   "hasLogin_noFree_text": {
+      "message": "Daha fazla kredi için planınızı yükseltin"
+   },
+   "hasLogin_noFree_title": {
+      "message": "Planınızın kullanımı tamamen tükenmiş"
+   },
+   "have_azure_key": {
+      "message": "Azure API anahtarınız olan geliştiriciler için"
+   },
+   "have_chatgpt_account": {
+      "message": "ChatGPT hesabınız olduğunda"
+   },
+   "have_glarity": {
+      "message": "Tüm Kullanıcılar İçin Önerilir"
+   },
+   "have_openai_key": {
+      "message": "API anahtarınız olan geliştiriciler için"
+   },
+   "here": {
+      "message": "Burada"
+   },
+   "how_to_use": {
+      "message": "Glarity özetini nasıl kullanır ve herhangi bir yerde kullanır"
+   },
+   "i_ready": {
+      "message": "Hazırım!"
+   },
+   "important": {
+      "message": "Önemli"
+   },
+   "insert": {
+      "message": "Ekle"
+   },
+   "is_login_expires_text": {
+      "message": "Glarity'ye giriş yaparak başlayın!"
+   },
+   "is_login_expires_tip": {
+      "message": "Bir ChatGPT hesabı ile \u003Ca id='glarity-error-guide-to-options'>ChatGPT moduna geçebilirsiniz.\u003C/a>"
+   },
+   "keep_this_tip": {
+      "message": "ChatGPT'yi daha kararlı hale getirmek için bu sekmeyi açık tutun."
+   },
+   "language": {
+      "message": "Dil"
+   },
+   "language_tip": {
+      "message": "ChatGPT yanıtında kullanılan dil. Otomatik önerilir."
+   },
+   "light": {
+      "message": "Açık"
+   },
+   "log_out": {
+      "message": "Çıkış Yap"
+   },
+   "login": {
+      "message": "Giriş Yap"
+   },
+   "login_chatGpt_tip": {
+      "message": "Glarity Özetini kullanmak için ChatGPT web uygulamasına giriş yapın."
+   },
+   "login_chatgpt_and_refresh_page": {
+      "message": "Lütfen ChatGPT'ye giriş yapın ve bu sayfayı yenileyin"
+   },
+   "login_tip": {
+      "message": "Lütfen {{site}} adresinde giriş yapın ve Cloudflare kontrolünü geçin"
+   },
+   "lone_text_tip": {
+      "message": "Glarity Modu: Uzun Videolar İçin Üstün Özetlerle Deneyiminizi Artırın."
+   },
+   "mail_ideas_of_reply": {
+      "message": "Yanıt Fikirleri"
+   },
+   "mail_reply": {
+      "message": "E-posta Yanıtı ve Özet"
+   },
+   "mail_reply_button": {
+      "message": "Hızlı E-posta Yanıtı"
+   },
+   "mail_reply_button_display": {
+      "message": "'Hızlı Yanıt' düğmesini e-posta sayfasında göster"
+   },
+   "mail_reply_button_none": {
+      "message": "'Hızlı Yanıt' düğmesini e-posta sayfasında gizle"
+   },
+   "mail_reply_button_tip": {
+      "message": "E-posta sayfanızı ziyaret ettiğinizde:"
+   },
+   "mail_reply_language": {
+      "message": "Hızlı E-posta Yanıtı Dili"
+   },
+   "mail_reply_language_tip": {
+      "message": "Bu dil ayarları, Hızlı Yanıt ile oluşturduğunuz metinlere uygulanır. 'Otomatik' ayarı, orijinal e-postanın dilini eşleştirir."
+   },
+   "mail_reply_tone": {
+      "message": "Hızlı E-posta Yanıtı Tonu"
+   },
+   "mail_reply_tone_tip": {
+      "message": "Seçilen ton, Hızlı Yanıt tarafından üretilen metni etkiler."
+   },
+   "mail_sender_intent": {
+      "message": "Gönderenin Niyeti"
+   },
+   "mail_textarea_tip": {
+      "message": "Ne yazacağınızı girin lütfen"
+   },
+   "manually": {
+      "message": "El ile"
+   },
+   "manually_tip": {
+      "message": "ChatGPT, manuel olarak bir düğmeye tıkladığınızda sorgulanır"
+   },
+   "money_month": {
+      "message": "$money$\u003Cspan>/ay\u003C/span>",
+      "placeholders": {
+         "money": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "more": {
+      "message": "Daha Fazla"
+   },
+   "more_ways": {
+      "message": "Daha Fazla Yol+"
+   },
+   "my_account": {
+      "message": "Hesabım"
+   },
+   "noLogin_text": {
+      "message": "Ücretsiz olarak Glarity'nin tadını çıkarmaya devam etmek için giriş yapın"
+   },
+   "noLogin_title": {
+      "message": "Ücretsiz kota tükenmiş"
+   },
+   "no_results": {
+      "message": "Sonuç bulunamadı."
+   },
+   "no_transcription": {
+      "message": "Transkripsiyon Mevcut Değil..."
+   },
+   "open_ai_tip": {
+      "message": "OpenAI resmi API'si, daha istikrarlı, kullanıma göre ücretlendirilir"
+   },
+   "openai_use_desc": {
+      "message": "Resmi OpenAI API daha kararlıdır ve ücretler kullanıma göre hesaplanır. API anahtarını almak için kılavuzu takip edin."
+   },
+   "option": {
+      "message": "Seçenekler"
+   },
+   "option_general": {
+      "message": "Genel"
+   },
+   "option_translate": {
+      "message": "Çevir"
+   },
+   "option_translate_black_list": {
+      "message": "Aşağıdaki web sitelerini çevirme"
+   },
+   "option_translate_black_list_desc": {
+      "message": "Burada listelenen web siteleri çevirilmeyecektir."
+   },
+   "option_translate_context_menu": {
+      "message": "Sağ Tıklama Menüsü Oluştur"
+   },
+   "option_translate_context_menu_desc": {
+      "message": "Etkinleştirildiğinde, tarayıcınızın sağ tıklama menüsüne çevirme veya orijinal metni gösterme kısayolu eklenir."
+   },
+   "option_translate_context_menu_disabled": {
+      "message": "Devre Dışı Bırak"
+   },
+   "option_translate_context_menu_enabled": {
+      "message": "Etkinleştir"
+   },
+   "option_translate_icon": {
+      "message": "Çeviri Simgesi"
+   },
+   "option_translate_icon_always_display": {
+      "message": "Sayfada çeviri simgesini her zaman göster"
+   },
+   "option_translate_icon_auto_display": {
+      "message": "Sayfada çeviri simgesini otomatik olarak göster"
+   },
+   "option_translate_icon_auto_display_desc": {
+      "message": "Mevcut sayfanın dili hedef dile farklı olduğunda çeviri simgesi otomatik olarak gösterilir."
+   },
+   "option_translate_icon_desc": {
+      "message": "Bu seçeneği seçerek 'Çevir' simgesini görüntülemeyi seçebilirsiniz. Bu simgeye tıklamak, şu anda görüntülediğiniz web sayfasını anında çevirir."
+   },
+   "option_translate_icon_never_display": {
+      "message": "Sayfada çeviri simgesini gösterme"
+   },
+   "option_translate_list_tip": {
+      "message": "Alan adı kullanılabilir ve joker desteği sağlanır. Her satıra bir alan adı girin.\u003Cbr/> Örnekler: *.google.com, google.com/mail/*, https://www.google.com/*"
+   },
+   "option_translate_target_language": {
+      "message": "Hedef Dil"
+   },
+   "option_translate_target_language_desc": {
+      "message": "Diğer dilleri belirlediğiniz dile çevirin"
+   },
+   "option_translate_white_list": {
+      "message": "Her Zaman Çevrilen Siteleri Sakla"
+   },
+   "option_translate_white_list_desc": {
+      "message": "Aşağıdaki siteler her zaman çevrilecektir."
+   },
+   "or": {
+      "message": "Ya da"
+   },
+   "page_not_supported": {
+      "message": "Üzgünüz, bu sayfa desteklenmiyor."
+   },
+   "page_summary": {
+      "message": "Sayfa Özeti"
+   },
+   "plan_basic_planText": {
+      "message": "GPT Okuma: $size$K belirteç/ay",
+      "placeholders": {
+         "size": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "plan_plus": {
+      "message": "Glarity Plus"
+   },
+   "plan_plus_planText0": {
+      "message": "GPT okuma: Sınırsız Belirteç"
+   },
+   "plan_plus_planText2": {
+      "message": "Tüm Plus Özelliklerine Erişim"
+   },
+   "plan_plus_tip": {
+      "message": "Profesyoneller için"
+   },
+   "plan_pro": {
+      "message": "Glarity Pro"
+   },
+   "plan_pro_funcList0": {
+      "message": "Akıllı Arama"
+   },
+   "plan_pro_funcList1": {
+      "message": "Arama Özeti"
+   },
+   "plan_pro_funcList2": {
+      "message": "YouTube Özeti"
+   },
+   "plan_pro_funcList3": {
+      "message": "PDF Özeti"
+   },
+   "plan_pro_funcList4": {
+      "message": "Yapay Zeka Bölüm"
+   },
+   "plan_pro_funcList5": {
+      "message": "Glarity'a Her Şeyi Sorun"
+   },
+   "plan_pro_planText0": {
+      "message": "GPT Okuma: $size$K belirteç/ay",
+      "placeholders": {
+         "size": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "plan_pro_planText1": {
+      "message": "Hızlı Müşteri Desteği"
+   },
+   "plan_pro_planText2": {
+      "message": "Tüm Pro Özelliklerine Erişim"
+   },
+   "plan_pro_tip": {
+      "message": "Çoğu kişi için en iyi plan"
+   },
+   "plus": {
+      "message": "Artı"
+   },
+   "pop_tip": {
+      "message": "Seçeneklerde Açılır özeti açabilirsiniz."
+   },
+   "popup_summary": {
+      "message": "Açılır özet"
+   },
+   "popup_summary_tip": {
+      "message": "Gösterilecek bir açılır pencereyi göstermek için tıklayabileceğim bir simge görüntüle."
+   },
+   "popup_summary_title": {
+      "message": "Bir kelime veya ifade seçtiğimde:"
+   },
+   "pro": {
+      "message": "Pro"
+   },
+   "q_and_a": {
+      "message": "Soru ve Cevap"
+   },
+   "recently_used": {
+      "message": "Son kullanılan"
+   },
+   "rephrase": {
+      "message": "Yeniden Düzenle"
+   },
+   "reset_day": {
+      "message": "$day$ gün sonra sıfırlanacak",
+      "placeholders": {
+         "day": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "response_loading": {
+      "message": "Yanıt Önerileri Yükleniyor"
+   },
+   "retry": {
+      "message": "Tekrar Dene"
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "security_statement": {
+      "message": "Endişelenmeyin, ürünümüz son teknoloji güvenlik önlemleri ile desteklenmektedir - güvenliğiniz bizim birinci önceliğimizdir."
+   },
+   "select_all": {
+      "message": "Hepsini Seç / Tersine Çevir"
+   },
+   "select_valid_model": {
+      "message": "Lütfen geçerli bir model seçin"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "show_icon": {
+      "message": "Glarity İkonunu Göster"
+   },
+   "show_icon_tip": {
+      "message": "Gizlendiğinde Glarity ikonu artık sayfada görünmez. Ancak tarayıcı eklenti ikonuna tıklayarak sayfa özetini açabilirsiniz."
+   },
+   "sign_in": {
+      "message": "Giriş Yap"
+   },
+   "sign_in_glarity": {
+      "message": "\u003Ca href='$link$' target='_blank'> Giriş yapın \u003C/a> Ücretsiz Glarity'nin keyfini çıkarmaya devam etmek için",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "https://glarity.app"
+         }
+      }
+   },
+   "sign_in_now": {
+      "message": "Şimdi oturum aç"
+   },
+   "sign_out": {
+      "message": "Çıkış Yap"
+   },
+   "start_now": {
+      "message": "Şimdi Başla"
+   },
+   "stop": {
+      "message": "Durdur"
+   },
+   "subscribe": {
+      "message": "Abone Ol"
+   },
+   "subscribe_pricing_tip": {
+      "message": "Daha ayrıntılı bir analiz için Glarity'nin sunumunu \u003Ca href='$link$' target='_blank'> fiyatlandırmamıza \u003C/a> göz atın.",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "https://glarity.app"
+         }
+      }
+   },
+   "summarize_above": {
+      "message": "Yukarıdaki içeriği özetleyin."
+   },
+   "summary": {
+      "message": "Özet"
+   },
+   "summary_brief": {
+      "message": "Kısa Özet: Daha az simge kullanılır, ancak özette atlamalar olabilir."
+   },
+   "summary_full": {
+      "message": "Tam içerik özeti, ancak ana kota daha fazla tüketir."
+   },
+   "summary_full_title": {
+      "message": "Tam içerik özeti"
+   },
+   "summary_support": {
+      "message": "Amazon ürünleri ve YouTube video yorumlarının özeti."
+   },
+   "support": {
+      "message": "Destek"
+   },
+   "theme": {
+      "message": "Tema"
+   },
+   "thinking": {
+      "message": "Düşünülüyor..."
+   },
+   "three_point": {
+      "message": "3 madde"
+   },
+   "three_ways_to_access": {
+      "message": "Glarity özetinin herkes tarafından erişilebilir olmasını sağlamak için ChatGPT'ye ve herhangi bir yerde kullanımına 3 yol sağlıyoruz."
+   },
+   "time_line": {
+      "message": "Zaman Çizelgesi"
+   },
+   "tips": {
+      "message": "ipuçları"
+   },
+   "token_exceeds_limit_toast": {
+      "message": "Üzgünüz, İstem, sınırları aşıyor, İngilizce'ye çevirip kaydetmeyi veya kelime sayısını azaltmayı deneyin."
+   },
+   "tokens_size": {
+      "message": " $size$ Belirteç",
+      "placeholders": {
+         "size": {
+            "content": "$1",
+            "example": "0/0"
+         }
+      }
+   },
+   "transcript": {
+      "message": "Transkript"
+   },
+   "translation": {
+      "message": "Çeviri"
+   },
+   "translation_languages": {
+      "message": "Çeviri dilleri"
+   },
+   "trigger_mode": {
+      "message": "Tetik Modu"
+   },
+   "unlimited": {
+      "message": "Sınırsız"
+   },
+   "unlimited_amount": {
+      "message": "Sınırsız Miktar"
+   },
+   "upgrade_now": {
+      "message": "Şimdi Yükselt"
+   },
+   "usage": {
+      "message": "Kullanım:"
+   },
+   "use_default": {
+      "message": "Varsayılanı kullan"
+   },
+   "use_openai_enhanced": {
+      "message": "Geliştirilmiş özetleme sonuçları için OpenAI API anahtarını kullanma"
+   },
+   "use_openai_tip": {
+      "message": "Not: OpenAI API anahtar deseni kullanmak daha doğru cevaplar sağlar."
+   },
+   "view_billing": {
+      "message": "Fatura Detaylarını Görüntüle"
+   },
+   "welcom_happy": {
+      "message": "Sizi aramızda görmek bizi mutlu ediyor!"
+   },
+   "welcom_text": {
+      "message": "Glarity Özeti, içerikten metin özetleri oluşturan bir tarayıcı eklentisidir, çoklu platformu destekler ve herhangi bir web sayfasının özetini çıkarır. Denemeye başlamak için düğmeye tıklayın."
+   },
+   "welcom_title": {
+      "message": "👋 Glarity'ye Hoş Geldiniz!"
+   },
+   "what_above": {
+      "message": "Yukarıdakiden önemli noktalar nelerdir?"
+   },
+   "whitelist_sites": {
+      "message": "Beyaz Liste Siteleri"
+   },
+   "whitelist_sites_tip": {
+      "message": "Sadece bu sitelerde Glarity ikonunu görümek için (her satırda bir URL)."
+   },
+   "youtube_video": {
+      "message": "YouTube Videosu"
+   }
+}

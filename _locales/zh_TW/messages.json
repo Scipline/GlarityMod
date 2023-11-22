@@ -1,0 +1,805 @@
+{
+   "Direct": {
+      "message": "直接的"
+   },
+   "Engaging": {
+      "message": "吸引人的"
+   },
+   "Formal": {
+      "message": "正式"
+   },
+   "Natural": {
+      "message": "自然"
+   },
+   "Personable": {
+      "message": "親切"
+   },
+   "aiAskYoutubeTip": {
+      "message": "Glarity正在預測您感興趣的問題"
+   },
+   "ai_chapter": {
+      "message": "AI章節"
+   },
+   "ai_chapter_lone_text_tip": {
+      "message": "體驗更佳的AI章節，建議切換到'Glarity模式'。"
+   },
+   "ai_not_responding": {
+      "message": "AI無響應"
+   },
+   "aiprovider": {
+      "message": "AI提供商"
+   },
+   "always": {
+      "message": "總是"
+   },
+   "always_tip": {
+      "message": "每次搜索都會查詢ChatGPT"
+   },
+   "appDesc": {
+      "message": "Glarity Summary 利用ChatGPT4實現快速為谷歌搜索和YouTube視頻等內容生成摘要。Glarity支援為任意網頁生成摘要總結。"
+   },
+   "appName": {
+      "message": "Glarity -利用ChatGPT4生成摘要，支援Youtube視頻和谷歌（免費無廣告）"
+   },
+   "ask": {
+      "message": "詢問"
+   },
+   "ask_chatGPT": {
+      "message": "生成總結"
+   },
+   "ask_docment_placeholder": {
+      "message": "向Glarity提出您的問題"
+   },
+   "ask_page_placeholder": {
+      "message": "向Glarity提出您的問題"
+   },
+   "ask_video_placeholder": {
+      "message": "向Glarity提出您的問題"
+   },
+   "asking_tip": {
+      "message": "Glarity正在生成與關鍵字相關的問題"
+   },
+   "auto": {
+      "message": "自動"
+   },
+   "azure_use_desc": {
+      "message": "利用Azure OpenAI服務的研發工程師可以獲得更穩定的服務。"
+   },
+   "back": {
+      "message": "後退"
+   },
+   "basic": {
+      "message": "Basic"
+   },
+   "beta": {
+      "message": "測試版"
+   },
+   "billing_basic": {
+      "message": "Glarity Basic"
+   },
+   "billing_hot": {
+      "message": "🔥 熱門"
+   },
+   "blacklist_sites": {
+      "message": "黑名單網站"
+   },
+   "blacklist_sites_tip": {
+      "message": "在這些網站上不顯示Glarity圖示（每行一個URL）。"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "change_openai_api": {
+      "message": "如果這種情況持續發生，請將AI提供商更改為擴展選項中的OpenAl API。"
+   },
+   "changes_saved": {
+      "message": "更改已保存"
+   },
+   "chat_quota_used_up_free_plan": {
+      "message": "您的免費額度已用完。 \u003Cbr /> \u003Ca href='$link$'>立即升級您的方案\u003C/a> 以獲得更多額度",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "https://glarity.com"
+         }
+      }
+   },
+   "chat_quota_used_up_limited_plan": {
+      "message": "您的方案額度已用完。 \u003Cbr /> \u003Ca href='$link$'>立即升級您的方案\u003C/a> 以獲得更多額度",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "https://glarity.com"
+         }
+      }
+   },
+   "chat_quota_used_up_not_login": {
+      "message": "您的額度已用完。 \u003Cbr /> \u003Ca href='$link$'>登入\u003C/a> 到Glarity以繼續享受您的免費體驗",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "https://glarity.com"
+         }
+      }
+   },
+   "chat_tip": {
+      "message": "註：詢問功能可能會消耗較多Key額度~"
+   },
+   "chatgpt_default_desc": {
+      "message": "對於免費用戶和Plus用戶，默認是無限制的。"
+   },
+   "chatgpt_default_model": {
+      "message": "默認"
+   },
+   "chatgpt_gpt4_desc": {
+      "message": "GPT-4適用於Plus用戶，並且有非常有限的配額。"
+   },
+   "chatgpt_gpt4_model": {
+      "message": "GPT-4"
+   },
+   "chatgpt_use_desc": {
+      "message": "你必須保持登錄到ChatGPT帳戶的網站上。由於OpenAI的限制，無論是Plus用戶還是免費用戶，穩定性可能會不一致。這對於ChatGPT Plus用戶是推薦的。"
+   },
+   "clickClose": {
+      "message": "點擊以收起"
+   },
+   "clickOpen": {
+      "message": "點擊以展開"
+   },
+   "comment_summary": {
+      "message": "總結評論"
+   },
+   "comment_summary_tip": {
+      "message": "對亞馬遜產品和YouTube視頻評論的支持摘要。"
+   },
+   "confirm": {
+      "message": "確認"
+   },
+   "content": {
+      "message": "內容"
+   },
+   "context_menu_translate": {
+      "message": "翻譯/顯示原文"
+   },
+   "copy": {
+      "message": "複製"
+   },
+   "copy_success": {
+      "message": "複製成功"
+   },
+   "create_tweet": {
+      "message": "創建推文"
+   },
+   "current_plan": {
+      "message": "當前套餐"
+   },
+   "customize_prompt": {
+      "message": "自定義摘要提示"
+   },
+   "dark": {
+      "message": "深色"
+   },
+   "data_error": {
+      "message": "數據錯誤"
+   },
+   "disable_icon": {
+      "message": "禁用Glarity圖示\n"
+   },
+   "disable_pop_tip": {
+      "message": "您確定要禁用彈出摘要嗎？"
+   },
+   "disable_popup_summary": {
+      "message": "不顯示圖示或彈窗。"
+   },
+   "enable_disable_glarity": {
+      "message": "啟用/禁用Glarity"
+   },
+   "enable_disable_tip": {
+      "message": "您可以在以下網站上啟用/禁用Glarity摘要。"
+   },
+   "enter_azure_endpoint": {
+      "message": "請輸入你的Azure終結點"
+   },
+   "enter_azure_key": {
+      "message": "請輸入你的Azure API密鑰"
+   },
+   "enter_azure_name": {
+      "message": "請輸入你的Azure部署名稱"
+   },
+   "enter_claude_key": {
+      "message": "請輸入你的Claude API密鑰"
+   },
+   "enter_openai_key_toast": {
+      "message": "請輸入你的OpenAI API密鑰"
+   },
+   "example_prompts": {
+      "message": "示例指令："
+   },
+   "explain": {
+      "message": "解釋"
+   },
+   "extract_gist": {
+      "message": "提取上述內容的要點。"
+   },
+   "faq_about": {
+      "message": "此視頻的常見問題"
+   },
+   "fell_text": {
+      "message": "覺得額度不夠用？"
+   },
+   "find_create_openai_key": {
+      "message": "你可以在這裡找到或創建你的API密鑰"
+   },
+   "free_queries": {
+      "message": "免費次數：$count$次",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "free_quota_exhausted": {
+      "message": "免費次數已用盡"
+   },
+   "generate": {
+      "message": "生成"
+   },
+   "generating": {
+      "message": "生成中..."
+   },
+   "glarity_not_use_desc": {
+      "message": "Glarity運用多種AI模型提供先進的AI輔助服務。每月享受 $size$ 免費Token，為所有人提供AI的力量。\u003Cbr/> \u003Ca href='$link$' target='_blank' rel='noopener noreferrer'>升級到 $plan$ \u003C/a> 以獲得更大的Token額度及高級功能。",
+      "placeholders": {
+         "link": {
+            "content": "$3",
+            "example": "https://glarity.com"
+         },
+         "plan": {
+            "content": "$2",
+            "example": "Pro"
+         },
+         "size": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "glarity_unlimited_words": {
+      "message": "無限Token"
+   },
+   "glarity_use_desc": {
+      "message": "Glarity藉由多個AI模型，為您提供卓越的AI輔助服務。"
+   },
+   "glarity_words_size": {
+      "message": "$size$ k 個Token可用",
+      "placeholders": {
+         "size": {
+            "content": "$1",
+            "example": "1"
+         }
+      }
+   },
+   "glartiy_trial": {
+      "message": "Glarity試用中"
+   },
+   "go_plus": {
+      "message": "Go Plus"
+   },
+   "google_search": {
+      "message": "谷歌搜索"
+   },
+   "goto_chatgpt": {
+      "message": "前往ChatGPT登錄"
+   },
+   "goto_options": {
+      "message": "前往編輯選項"
+   },
+   "gpt3_5tip": {
+      "message": "GPT-3.5對於免費和Plus用戶沒有限制。"
+   },
+   "gpt4_tip": {
+      "message": "GPT-4適用於Plus用戶，額度非常有限。"
+   },
+   "gpt_401": {
+      "message": "加載響應失敗，請檢查API密鑰。"
+   },
+   "guide_desc": {
+      "message": "開始體驗Glarity高效閱讀總結~~"
+   },
+   "guide_title": {
+      "message": "歡迎使用Glarity"
+   },
+   "guide_to_glarity_mode": {
+      "message": "如果問題持續存在，推薦您切換到 \u003Ca id='glarity-error-guide-to-options'>Glarity模式\u003C/a>（更快更穩定）"
+   },
+   "hasLogin_isFree_text": {
+      "message": "升級您的方案以獲得更多額度"
+   },
+   "hasLogin_isFree_title": {
+      "message": "免費使用額度已用完"
+   },
+   "hasLogin_noFree_text": {
+      "message": "升級您的方案以獲得更多額度"
+   },
+   "hasLogin_noFree_title": {
+      "message": "您的額度已全部使用完畢"
+   },
+   "have_azure_key": {
+      "message": "對於擁有Azure API密鑰的開發者"
+   },
+   "have_chatgpt_account": {
+      "message": "當你擁有ChatGPT帳戶時"
+   },
+   "have_glarity": {
+      "message": "推薦所有使用者使用"
+   },
+   "have_openai_key": {
+      "message": "對於擁有API密鑰的開發者"
+   },
+   "here": {
+      "message": "這裡"
+   },
+   "how_to_use": {
+      "message": "如何使用Glarity總結並在任何地方使用它"
+   },
+   "i_ready": {
+      "message": "已準備好！"
+   },
+   "important": {
+      "message": "重要"
+   },
+   "insert": {
+      "message": "插入"
+   },
+   "is_login_expires_text": {
+      "message": "登入Glarity即可使用~"
+   },
+   "is_login_expires_tip": {
+      "message": "若您已有ChatGPT帳號，您可以\u003Ca id='glarity-error-guide-to-options'>切換到ChatGPT模式免費使用。\u003C/a>"
+   },
+   "keep_this_tip": {
+      "message": "保持此選項卡可以使ChatGPT更穩定。"
+   },
+   "language": {
+      "message": "語言"
+   },
+   "language_tip": {
+      "message": "ChatGPT響應中使用的語言。建議選擇自動。"
+   },
+   "light": {
+      "message": "淺色"
+   },
+   "log_out": {
+      "message": "登出"
+   },
+   "login": {
+      "message": "登入"
+   },
+   "login_chatGpt_tip": {
+      "message": "登錄ChatGPT網站使用Glarity摘要。"
+   },
+   "login_chatgpt_and_refresh_page": {
+      "message": "請登錄ChatGPT並刷新此頁面"
+   },
+   "login_tip": {
+      "message": "請登錄並通過{{site}}的Cloudflare驗證"
+   },
+   "lone_text_tip": {
+      "message": "Glarity模式： 更佳的長影片總結體驗"
+   },
+   "mail_ideas_of_reply": {
+      "message": "回覆提議"
+   },
+   "mail_reply": {
+      "message": "郵件回覆與摘要"
+   },
+   "mail_reply_button": {
+      "message": "快速回覆郵件"
+   },
+   "mail_reply_button_display": {
+      "message": "在郵件頁面上顯示'快速回覆'按鈕"
+   },
+   "mail_reply_button_none": {
+      "message": "在郵件頁面上隱藏'快速回覆'按鈕"
+   },
+   "mail_reply_button_tip": {
+      "message": "當您訪問您的郵件內容時："
+   },
+   "mail_reply_language": {
+      "message": "回覆郵件的語言"
+   },
+   "mail_reply_language_tip": {
+      "message": "適用於您使用快速回覆郵件時生成的內容。'自動'設置將匹配原始電子郵件的語言。"
+   },
+   "mail_reply_tone": {
+      "message": "回覆郵件的語氣"
+   },
+   "mail_reply_tone_tip": {
+      "message": "將應用於生成郵件時的語氣。"
+   },
+   "mail_sender_intent": {
+      "message": "寄件人的意圖"
+   },
+   "mail_textarea_tip": {
+      "message": "請輸入要寫的內容"
+   },
+   "manually": {
+      "message": "手動"
+   },
+   "manually_tip": {
+      "message": "手動點擊按鈕時查詢ChatGPT"
+   },
+   "money_month": {
+      "message": "$money$元\u003Cspan>/月\u003C/span>",
+      "placeholders": {
+         "money": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "more": {
+      "message": "更多"
+   },
+   "more_ways": {
+      "message": "更多方式+"
+   },
+   "my_account": {
+      "message": "我的帳號"
+   },
+   "noLogin_text": {
+      "message": "登入後繼續免費使用Glarity"
+   },
+   "noLogin_title": {
+      "message": "免費額度已用完"
+   },
+   "no_results": {
+      "message": "無結果。"
+   },
+   "no_transcription": {
+      "message": "該視頻無可用於總結的字幕文檔..."
+   },
+   "open_ai_tip": {
+      "message": "OpenAI官方API，更加穩定，按使用量計費。"
+   },
+   "openai_use_desc": {
+      "message": "官方的OpenAI API更穩定，並且收費是基於使用量的。請按照指南獲取API密鑰。"
+   },
+   "option": {
+      "message": "選項"
+   },
+   "option_general": {
+      "message": "通用"
+   },
+   "option_translate": {
+      "message": "翻譯"
+   },
+   "option_translate_black_list": {
+      "message": "不要翻譯以下網站"
+   },
+   "option_translate_black_list_desc": {
+      "message": "列出這裡的網站將不會自動進行翻譯。"
+   },
+   "option_translate_context_menu": {
+      "message": "創建右鍵菜單"
+   },
+   "option_translate_context_menu_desc": {
+      "message": "啟用後，將在瀏覽器的右鍵菜單中添加翻譯或顯示原文的快捷方式"
+   },
+   "option_translate_context_menu_disabled": {
+      "message": "禁用"
+   },
+   "option_translate_context_menu_enabled": {
+      "message": "啟用"
+   },
+   "option_translate_icon": {
+      "message": "翻譯圖示"
+   },
+   "option_translate_icon_always_display": {
+      "message": "始終在頁面上顯示翻譯圖示"
+   },
+   "option_translate_icon_auto_display": {
+      "message": "在頁面上自動顯示翻譯圖示"
+   },
+   "option_translate_icon_auto_display_desc": {
+      "message": "當前頁面的語言與目標語言不同時，將自動顯示翻譯圖示。"
+   },
+   "option_translate_icon_desc": {
+      "message": "選擇此選項將顯示“翻譯”圖示。點擊翻譯圖示可啟動翻譯您正在瀏覽的網頁"
+   },
+   "option_translate_icon_never_display": {
+      "message": "隱藏翻譯圖示"
+   },
+   "option_translate_list_tip": {
+      "message": "請輸入網域名稱，支援通配符。每行輸入一個網域名稱。\u003Cbr/> 例如：*.google.com, google.com/mail/*, https://www.google.com/*"
+   },
+   "option_translate_target_language": {
+      "message": "目標語言"
+   },
+   "option_translate_target_language_desc": {
+      "message": "將其他語言翻譯成您設定的語言"
+   },
+   "option_translate_white_list": {
+      "message": "總是翻譯這些網站"
+   },
+   "option_translate_white_list_desc": {
+      "message": "以下網站將始終進行翻譯"
+   },
+   "or": {
+      "message": "或"
+   },
+   "page_not_supported": {
+      "message": "抱歉，暫不支援該頁面"
+   },
+   "page_summary": {
+      "message": "頁面摘要"
+   },
+   "plan_basic_planText": {
+      "message": "GPT閱讀：$size$K Tokens/ 月",
+      "placeholders": {
+         "size": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "plan_plus": {
+      "message": "Glarity Plus"
+   },
+   "plan_plus_planText0": {
+      "message": "GPT閱讀：無限Token"
+   },
+   "plan_plus_planText2": {
+      "message": "允許使用所有Plus功能"
+   },
+   "plan_plus_tip": {
+      "message": "針對專業人士"
+   },
+   "plan_pro": {
+      "message": "Glarity Pro"
+   },
+   "plan_pro_funcList0": {
+      "message": "智能搜索"
+   },
+   "plan_pro_funcList1": {
+      "message": "搜尋摘要"
+   },
+   "plan_pro_funcList2": {
+      "message": "YouTube摘要"
+   },
+   "plan_pro_funcList3": {
+      "message": "PDF摘要"
+   },
+   "plan_pro_funcList4": {
+      "message": "AI章節"
+   },
+   "plan_pro_funcList5": {
+      "message": "向Glarity提問"
+   },
+   "plan_pro_planText0": {
+      "message": "GPT閱讀：$size$K Tokens/ 月",
+      "placeholders": {
+         "size": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "plan_pro_planText1": {
+      "message": "快速的客戶支援"
+   },
+   "plan_pro_planText2": {
+      "message": "允許使用所有Pro功能"
+   },
+   "plan_pro_tip": {
+      "message": "大部分人選擇的套餐"
+   },
+   "plus": {
+      "message": "Plus"
+   },
+   "pop_tip": {
+      "message": "您可以在選項中啟用它 彈出摘要。"
+   },
+   "popup_summary": {
+      "message": "劃詞菜單"
+   },
+   "popup_summary_tip": {
+      "message": "點擊圖示顯示總結窗口"
+   },
+   "popup_summary_title": {
+      "message": "當我選中一個單詞或短語時："
+   },
+   "pro": {
+      "message": "Pro"
+   },
+   "q_and_a": {
+      "message": "問答"
+   },
+   "recently_used": {
+      "message": "最近使用"
+   },
+   "rephrase": {
+      "message": "改寫"
+   },
+   "reset_day": {
+      "message": "$day$天後重置",
+      "placeholders": {
+         "day": {
+            "content": "$1",
+            "example": "0"
+         }
+      }
+   },
+   "response_loading": {
+      "message": "正在加載回覆建議"
+   },
+   "retry": {
+      "message": "重試"
+   },
+   "save": {
+      "message": "儲存"
+   },
+   "security_statement": {
+      "message": "請放心，我們的產品採用最新的網路安全措施強化，保證您的郵件安全是我們的首要任務。"
+   },
+   "select_all": {
+      "message": "全選/反選"
+   },
+   "select_valid_model": {
+      "message": "請選擇一個有效的模型"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "show_icon": {
+      "message": "顯示Glarity圖示"
+   },
+   "show_icon_tip": {
+      "message": "一旦隱藏，Glarity圖示將不再顯示在頁面上。當然，您可以通過點擊瀏覽器擴展圖示來激活摘要功能。"
+   },
+   "sign_in": {
+      "message": "登入"
+   },
+   "sign_in_glarity": {
+      "message": "請\u003Ca href='$link$' target='_blank'> 登入 \u003C/a>繼續享受Glarity模式的免費服務",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "https://glarity.app"
+         }
+      }
+   },
+   "sign_in_now": {
+      "message": "立即登入"
+   },
+   "sign_out": {
+      "message": "登出"
+   },
+   "start_now": {
+      "message": "馬上體驗"
+   },
+   "stop": {
+      "message": "停止"
+   },
+   "subscribe": {
+      "message": "訂閱"
+   },
+   "subscribe_pricing_tip": {
+      "message": "詳見\u003Ca href='$link$' target='_blank'>價目表\u003C/a>以了解Glarity提供的具體服務。",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "https://glarity.app"
+         }
+      }
+   },
+   "summarize_above": {
+      "message": "總結上述內容要點。"
+   },
+   "summary": {
+      "message": "摘要"
+   },
+   "summary_brief": {
+      "message": "簡要總結：消耗更少的Token，然而總結內容可能會有遺漏。"
+   },
+   "summary_full": {
+      "message": "對全文進行總結，然而會消耗更多的Key額度。"
+   },
+   "summary_full_title": {
+      "message": "全文內容總結"
+   },
+   "summary_support": {
+      "message": "支援總結亞馬遜產品和YouTube視頻評論。"
+   },
+   "support": {
+      "message": "支援"
+   },
+   "theme": {
+      "message": "主題"
+   },
+   "thinking": {
+      "message": "思考中..."
+   },
+   "three_point": {
+      "message": "3個要點"
+   },
+   "three_ways_to_access": {
+      "message": "為了確保Glarity總結對每個人都可訪問，我們提供了3種訪問ChatGPT並在任何地方使用它的方式。"
+   },
+   "time_line": {
+      "message": "時間線"
+   },
+   "tips": {
+      "message": "提示"
+   },
+   "token_exceeds_limit_toast": {
+      "message": "抱歉，指令token超過了限制，請嘗試將其翻譯為英文並保存，或者減少字數。"
+   },
+   "tokens_size": {
+      "message": "$size$ 個Tokens",
+      "placeholders": {
+         "size": {
+            "content": "$1",
+            "example": "0/0"
+         }
+      }
+   },
+   "transcript": {
+      "message": "視頻字幕"
+   },
+   "translation": {
+      "message": "翻譯"
+   },
+   "translation_languages": {
+      "message": "翻譯語言"
+   },
+   "trigger_mode": {
+      "message": "觸發模式"
+   },
+   "unlimited": {
+      "message": "無限版"
+   },
+   "unlimited_amount": {
+      "message": "無限量"
+   },
+   "upgrade_now": {
+      "message": "立即升級"
+   },
+   "usage": {
+      "message": "使用情況:"
+   },
+   "use_default": {
+      "message": "使用默認值"
+   },
+   "use_openai_enhanced": {
+      "message": "使用OpenAI API密鑰獲取更佳的總結體驗"
+   },
+   "use_openai_tip": {
+      "message": "注意：使用OpenAI API密鑰模式將提供更準確的答案。"
+   },
+   "view_billing": {
+      "message": "查看計費詳情"
+   },
+   "welcom_happy": {
+      "message": "很高興您能加入我們！"
+   },
+   "welcom_text": {
+      "message": "Glarity摘要是一個能從內容中生成文本摘要的瀏覽器插件，支援多平台和任何網頁的摘要。立即開始體驗吧。"
+   },
+   "welcom_title": {
+      "message": "👋 歡迎來到Glarity！"
+   },
+   "what_above": {
+      "message": "上述內容的主要要點是什麼？"
+   },
+   "whitelist_sites": {
+      "message": "白名單網站"
+   },
+   "whitelist_sites_tip": {
+      "message": "僅在這些網站上顯示Glarity圖示（每行一個URL）。"
+   },
+   "youtube_video": {
+      "message": "YouTube視頻"
+   }
+}
